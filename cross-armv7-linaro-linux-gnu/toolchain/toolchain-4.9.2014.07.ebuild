@@ -11,7 +11,7 @@ SRC_URI="mirror://linaro/gcc-linaro-arm-linux-gnueabihf-4.9-2014.07_linux.tar.bz
 
 LICENSE="GPL"
 SLOT="0"
-KEYWORDS="x86-host"
+KEYWORDS="~x86-host" # Working but masked as gcc 4.9 is not mature enough
 IUSE=""
 RESTRICT="strip nomirror"
 

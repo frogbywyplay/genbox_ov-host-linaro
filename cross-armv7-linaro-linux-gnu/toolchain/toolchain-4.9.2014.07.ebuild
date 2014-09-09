@@ -6,7 +6,7 @@ inherit eutils
 
 DESCRIPTION="Linaro official binary toolchain release"
 HOMEPAGE="http://www.linaro.org/linux-on-arm/"
-SRC_URI="mirror://linaro/gcc-linaro-arm-linux-gnueabihf-4.9-2014.07_linux.tar.bz2"
+SRC_URI="mirror://linaro/14.07/components/toolchain/binaries/gcc-linaro-arm-linux-gnueabihf-4.9-2014.07_linux.tar.bz2"
 
 
 LICENSE="GPL"
